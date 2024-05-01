@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gu8pTD6/nl2LTasY87QX+K18C1Syb9ti7tT72Fg8FtwF/JD2zmisnQCkIA6Neb5z1QIpin/tn2ed69A2ujwPBQ==",
+  "success": true,
+  "projectFilePath": "/Users/batu/Desktop/PROJECTS/BuberDinner/BuberDinner.Domain/BuberDinner.Domain.csproj",
+  "expectedPackageFiles": [
+    "/Users/batu/.nuget/packages/erroror/2.0.1/erroror.2.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
